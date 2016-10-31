@@ -3,7 +3,7 @@ layout: post
 title: "日本語入力のための設定メモ for Arch Linux"
 date: 2014-05-28 07:49:23 +0900
 comments: true
-categories: "ArchLinux"
+categories: ["ArchLinux"]
 ---
 
 IMはずっとibusを使ってきたのだが、なかなか設定に融通が効かないというか、なんというか。

@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry Piでログインを自動化、ついでに現在のIP表示させてみる"
 date: 2015-01-28 21:10:39 +0900
 comments: true
-categories: "RaspberryPi"
+categories: ["RaspberryPi"]
 ---
 
 しばらく愛用のVaio Proをいじる時間がとれなかったもんで、新しい記事をポストできずにおった。

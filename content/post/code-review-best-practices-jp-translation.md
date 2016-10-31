@@ -3,7 +3,7 @@ layout: post
 title: "Code Review Best Practices を日本語訳した"
 date: 2015-07-31 19:36:04 +0900
 comments: true
-categories: "その他"
+categories: ["その他"]
 ---
 
 [Code Review Best Practices - Kevin London's blog](http://kevinlondon.com/2015/05/05/code-review-best-practices.html) の日本語訳を作成した。

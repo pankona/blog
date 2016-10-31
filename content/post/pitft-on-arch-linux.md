@@ -3,7 +3,7 @@ layout: post
 title: "PiTFTをArch Linux on Raspberry Piで動かすのに苦戦"
 date: 2014-07-17 21:11:11 +0900
 comments: true
-categories: "RaspberryPi"
+categories: ["RaspberryPi"]
 ---
 
 **2014/07/23/Wed 追記**

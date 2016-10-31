@@ -3,7 +3,7 @@ layout: post
 title: "Google Japanの検索にgithubがヒットしないかと思ったがそんなことはなかった"
 date: 2014-05-19 21:21:34 +0900
 comments: true
-categories: "その他"
+categories: ["その他"]
 ---
 
 ## 自分のページがGoogle検索にヒットしない理由

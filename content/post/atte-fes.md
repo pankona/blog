@@ -3,7 +3,7 @@ layout: post
 title: "atte fes@Mercari"
 date: 2016-04-18 19:34:12 +0900
 comments: true
-categories: その他
+categories: ["その他"]
 ---
 
 ![attefes](/images/attefes/title.jpg)

@@ -3,7 +3,7 @@ layout: post
 title: "Octopressカスタマイズで読書メーターのブログパーツを追加"
 date: 2014-10-01 22:41:26 +0900
 comments: true
-categories: "Octopressカスタマイズ"
+categories: ["Octopressカスタマイズ"]
 ---
 
 たまにはブログのカスタマイズをしてみる。

@@ -3,7 +3,7 @@ layout: post
 title: "Octopressにタグクラウドとカテゴリリストを追加してみた"
 date: 2014-04-25 21:11:53 +0900
 comments: true
-categories: "Octopressカスタマイズ"
+categories: ["Octopressカスタマイズ"]
 ---
 
 Octopressにプラグインを追加して、tag_cloundとcategory_listを表示できるようにしてみた。

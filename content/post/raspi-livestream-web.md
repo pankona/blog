@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry Pi + カメラモジュール + Webで配信"
 date: 2014-05-05 23:38:52 +0900
 comments: true
-categories: "RaspberryPi"
+categories: ["RaspberryPi"]
 ---
 
 Raspberry Piにカメラモジュールを接続し、映像をWebで配信させてみた。

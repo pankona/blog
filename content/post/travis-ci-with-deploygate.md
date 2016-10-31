@@ -3,7 +3,7 @@ layout: post
 title: "Cocos2d-x + Travis CI + DeployGate"
 date: 2015-04-22 19:25:11 +0900
 comments: true
-categories: "cocos2d-x"
+categories: ["cocos2d-x"]
 ---
 
 [前回](http://pankona.github.io/blog/2015/04/19/cocos-with-travisci/)の記事にて、cocos2d-xでのアプリ作成とTravis CIを連携させるとこまでいった。

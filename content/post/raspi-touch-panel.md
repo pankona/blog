@@ -3,7 +3,7 @@ layout: post
 title: "PiTFTのタッチパネルを動作させる"
 date: 2014-07-23 21:54:58 +0900
 comments: true
-categories: "RaspberryPi"
+categories: ["RaspberryPi"]
 ---
 
 前回に引き続き、PiTFTの話題。

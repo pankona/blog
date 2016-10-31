@@ -3,7 +3,7 @@ layout: post
 title: "cocos2d-xをやってみている"
 date: 2015-03-11 20:29:27 +0900
 comments: true
-categories: "cocos2d-x"
+categories: ["cocos2d-x"]
 ---
 
 2015.03.07に娘が生まれました。

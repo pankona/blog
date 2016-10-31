@@ -3,7 +3,7 @@ layout: post
 title: "Pygmentsがエラーを吐きやがるので修正"
 date: 2014-04-28 21:15:16 +0900
 comments: true
-categories: "Octopressカスタマイズ"
+categories: ["Octopressカスタマイズ"]
 ---
 
 Octopressのカスタマイズを続けていく。

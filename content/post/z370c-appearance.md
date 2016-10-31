@@ -3,7 +3,7 @@ layout: post
 title: "ASUS ZenPad 7.0 (Z370C) レビュー その一 : 見た目編"
 date: 2016-03-29 00:40:56 +0900
 comments: true
-categories: ガジェット
+categories: ["ガジェット"]
 ---
 
 ZenTour2016 にて ZenPad 7.0 (Z370C) を入手するに至った。

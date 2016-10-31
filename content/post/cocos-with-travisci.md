@@ -3,7 +3,7 @@ layout: post
 title: "cocos2d-x + Travis CI"
 date: 2015-04-19 11:26:14 +0900
 comments: true
-categories: "cocos2d-x"
+categories: ["cocos2d-x"]
 ---
 
 引き続きcocos2d-xを使ってブロック崩しを作っている。
