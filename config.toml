@@ -1,6 +1,12 @@
-baseurl = "http://example.org/"
-title = "My New Hugo Site"
+baseurl = "http://pankona.github.io/"
+title = "make clean; make"
+author = "pankona"
 languageCode = "en-us"
 
 [permalinks]
   post = "/blog/:year/:month/:day/:filename/"
+
+[Params]
+  hideshareoptions = true
+  twitter = "gohan_pan_gohan"
+  github  = "pankona"
